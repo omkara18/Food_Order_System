@@ -11,6 +11,9 @@
 
 
 ## Setup To Run
+```sh
+virtualenv venv
+```
 
 ```sh
 source venv/bin/activate

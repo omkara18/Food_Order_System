@@ -26,4 +26,19 @@ pip install -r requirements.txt
 python3 manage.py runserver
 ```
 
+#Workflow  For Admin
+## Admin Homepage.On Homepage there are three option:
+  -Home
+  -Dashboard
+  -LogOut
+ ![ALT Text](https://github.com/omkara18/Food_Order_System/blob/main/Workflow/Admin_Workflow/1.1home_page_for_admin.png)
+## Dashbord for Admin
+  -Add New Food Item
+  -View Food Item and review
+  -Analayse Pending Food Order,Completed Order.
+![ALT Text](https://github.com/omkara18/Food_Order_System/blob/main/Workflow/Admin_Workflow/2.1Dashboard_for_adminr.png)
+## Completed Order
+![ALT Text](https://github.com/omkara18/Food_Order_System/blob/main/Workflow/Admin_Workflow/3.1Completed_order_list.png)
+## Pending Order
+![ALT Text](https://github.com/omkara18/Food_Order_System/blob/main/Workflow/Admin_Workflow/4.1pending_order_list.png)
 
